@@ -6,6 +6,14 @@ Minha paixão é criar interfaces de usuário intuitivas e eficientes, que unam 
 
 ---
 
+### 💼 Conectando Habilidades: De Análise de Dados a Front-End
+
+Minha experiência profissional e acadêmica me proporcionou uma base sólida em análise e visualização de dados, com foco em Power BI. Atualmente, aplico ferramentas como Figma, Python, SQL, HTML e CSS no desenvolvimento de dashboards.
+
+Essa jornada me deu um olhar apurado para a **estética e a experiência do usuário (UX)**. Desenvolvi uma forte paixão pela intersecção entre dados e interfaces, buscando criar não apenas visuais bonitos, mas soluções intuitivas e eficientes para o usuário final. Meus projetos em HTML e CSS, além do meu case de React Native, são o resultado direto dessa ambição de atuar com desenvolvimento de sites e aplicações web.
+
+---
+
 ### 🚀 **Habilidades & Tecnologias**
 
 Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
